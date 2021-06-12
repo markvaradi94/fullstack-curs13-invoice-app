@@ -15,6 +15,7 @@ public class DataLoader implements CommandLineRunner {
     public void run(String... args) throws Exception {
 //        service.addInvoice(
 //                InvoiceEntity.builder()
+//                        .id("1")
 //                        .amount(500.0)
 //                        .description("rent")
 //                        .payed(true)
@@ -24,6 +25,7 @@ public class DataLoader implements CommandLineRunner {
 //        );
 //        service.addInvoice(
 //                InvoiceEntity.builder()
+//                        .id("2")
 //                        .amount(120D)
 //                        .description("food")
 //                        .payed(false)
@@ -33,6 +35,7 @@ public class DataLoader implements CommandLineRunner {
 //        );
 //        service.addInvoice(
 //                InvoiceEntity.builder()
+//                        .id("3")
 //                        .amount(240.50)
 //                        .description("bills")
 //                        .payed(false)
@@ -42,6 +45,7 @@ public class DataLoader implements CommandLineRunner {
 //        );
 //        service.addInvoice(
 //                InvoiceEntity.builder()
+//                        .id("4")
 //                        .amount(990.0)
 //                        .description("groceries")
 //                        .payed(true)

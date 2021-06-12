@@ -8,7 +8,9 @@ spring:
     mongodb:
       uri: "mongodb+srv://mark:mazare123@greencluster.rewht.mongodb.net/course13Db?retryWrites=true&w=majority"
   rabbitmq:
-    host: kangaroo.rmq.cloudamqp.com
+    host: cow.rmq2.cloudamqp.com
     username: divoayef
     password: GBvJg_Pkw166v1Uu3ri8WZRYXKp1vvZC
     virtual-host: divoayef
+
+payments-service-host: "http://localhost:8002"

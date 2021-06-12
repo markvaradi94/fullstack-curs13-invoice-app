@@ -1,4 +1,7 @@
-client\InvoiceApiClient.class
-client\InvoiceApiClient$1.class
+events\InvoiceEvent$InvoiceEventBuilder.class
 dto\Invoice.class
+events\InvoiceEventType.class
 dto\Invoice$InvoiceBuilder.class
+events\InvoiceEvent.class
+ro\fasttrackit\curs13homework\invoice\client\InvoiceApiClient.class
+ro\fasttrackit\curs13homework\invoice\client\InvoiceApiClient$1.class
