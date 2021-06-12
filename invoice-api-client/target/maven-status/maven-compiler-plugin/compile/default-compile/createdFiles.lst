@@ -1,0 +1,4 @@
+client\InvoiceApiClient.class
+client\InvoiceApiClient$1.class
+dto\Invoice.class
+dto\Invoice$InvoiceBuilder.class

@@ -1,0 +1,14 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: invoice-service
+  data:
+    mongodb:
+      uri: "mongodb+srv://mark:mazare123@greencluster.rewht.mongodb.net/course13Db?retryWrites=true&w=majority"
+  rabbitmq:
+    host: kangaroo.rmq.cloudamqp.com
+    username: divoayef
+    password: GBvJg_Pkw166v1Uu3ri8WZRYXKp1vvZC
+    virtual-host: divoayef
